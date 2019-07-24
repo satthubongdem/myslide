@@ -1,2 +1,0 @@
-# myslide
-Githubの練習
