@@ -1,8 +1,9 @@
 ### こんにちは
 
 ---
-# Myslidee
+### Myslidee
 練習
+
 ### 2枚目のスライド
 。。。。
 3枚目
@@ -13,7 +14,7 @@ a=0;
 }
 }
 ### 3枚目のスライド
- java |
+ java|
 -JavarScript |
 -Kotlin |
 -go 
