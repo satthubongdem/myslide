@@ -14,10 +14,10 @@ a=0;
 }
 }
 ### 3枚目のスライド
- java |
--JavarScript |
--Kotlin |
--go |
+  -java |
+-   JavarScript |
+-  Kotlin |
+-  go |
 
 ---
 
